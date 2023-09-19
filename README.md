@@ -8,7 +8,8 @@ This back end application is designed for managers at internet retail companies 
 
 ## Usage
 
-Clone the repo
+Clone the repo.
+
 Open integrated terminal an run:
 - npm i
 - npm run seed
